@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hey, I’m Nithish<br><br>
+👋 Hey, I’m Varun<br><br>
 🚀 Builds wild ideas — from rocket-powered wildfire solutions to gadgets that detect phones in exam halls.<br><br>
 🤖 AI tinkerer who mixes APIs like cocktails to see what explodes (creatively).<br><br>
 🛡️ Messed around with cybersecurity and Linux until the terminal finally respected me.<br><br>
@@ -10,7 +10,7 @@
 🎯 Loves hackathons, crazy problem statements, and turning chaos into working code.
 
 ## 🌐 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishvenkat4507@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrun2805@gmail.com)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -35,12 +35,12 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nithishvenkat4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nithishvenkat4&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishvenkat4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=var12958&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=var12958&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=var12958&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nithishvenkat4&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=var12958&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nithishvenkat4&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=var12958&icon=0&color=0)](https://visitcount.itsvg.in)
